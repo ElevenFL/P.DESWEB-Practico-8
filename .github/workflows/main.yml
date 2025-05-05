@@ -19,4 +19,5 @@ jobs:
           node-version: '18'
 
       - name: Ejecutar el script Hello World
-        run: node hello.js
+        run: node path/to/hello.js
+
